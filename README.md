@@ -2,7 +2,7 @@
 
 <html>
   
-<h1>HAPPY NEW YEAR!</h1>  
+<h1>WELCOME</h1>  
   
 </html>
 
